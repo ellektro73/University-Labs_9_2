@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Україна",
+    "population": 41.0,
+    "area": 603.5
+  },
+  {
+    "name": "Польща",
+    "population": 38.0,
+    "area": 312.7
+  },
+  {
+    "name": "Німеччина",
+    "population": 83.2,
+    "area": 357.6
+  },
+  {
+    "name": "Франція",
+    "population": 67.8,
+    "area": 643.8
+  },
+  {
+    "name": "Італія",
+    "population": 60.4,
+    "area": 301.3
+  },
+  {
+    "name": "Іспанія",
+    "population": 47.4,
+    "area": 505.9
+  },
+  {
+    "name": "Велика Британія",
+    "population": 67.2,
+    "area": 243.6
+  },
+  {
+    "name": "Японія",
+    "population": 125.8,
+    "area": 377.9
+  },
+  {
+    "name": "США",
+    "population": 331.9,
+    "area": 9833.5
+  },
+  {
+    "name": "Канада",
+    "population": 38.2,
+    "area": 9984.7
+  },
+  {
+    "name": "Єстонія",
+    "population": 1372.0,
+    "area": 45335.0
+  }
+]
